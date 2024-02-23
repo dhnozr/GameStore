@@ -1,13 +1,8 @@
-# Game Store
+z# Game Store
 This application serves as a comprehensive directory, showcasing a diverse collection of video games spanning various genres.
 
 ## Video
-
-<video autoplay loop muted>
-  <source src=https://github.com/dhnozr/GameStore/assets/115792609/b0249504-60de-4a19-a59a-72864422ae05 type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/dhnozr/GameStore/assets/115792609/b0249504-60de-4a19-a59a-72864422ae05
 
 
 
