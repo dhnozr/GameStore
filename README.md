@@ -1,4 +1,4 @@
-z# Game Store
+# Game Store
 This application serves as a comprehensive directory, showcasing a diverse collection of video games spanning various genres.
 
 ## Video
